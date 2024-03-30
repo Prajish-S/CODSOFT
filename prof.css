@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: #050f20;
-  --primary-color-light: #1b1c20;
-  --primary-color-extra-light: #35373b;
-  --secondary-color: #2c59a7;
-  --secondary-color-dark: #25bca8;
+  --primary-color: #1a4a4b;
+  --primary-color-light: #11555c;
+  --primary-color-extra-light: #236567;
+  --secondary-color: #858d8dde;
+  --secondary-color-dark: #fdfefe;
   --text-light: #eff4f4;
   --white:#ffff;
   --max-width: 1200px;
@@ -45,7 +45,7 @@
   outline: none;
   border: none;
   font-size: 1rem;
-  color: var(--white);
+  color: var(--black);
   background-color: var(--secondary-color);
   border-radius: 5px;
   cursor: pointer;
@@ -190,7 +190,7 @@ nav {
   
   .section__header {
     font-size: 30px;
-    color:#2c59a7;
+    color:#080d17;
     margin-bottom: 5px;
   }
   
